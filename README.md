@@ -1,4 +1,3 @@
-Markdown
 # Noita Python Automation 🧙‍♂️💥🧨 *(WIP)*
 
 A lightweight Python script designed to automate input sequences and handle custom macros in *Noita*, bypassing Windows DirectInput restrictions.
