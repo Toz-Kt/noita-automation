@@ -18,6 +18,5 @@ def al_presionar_tecla(key):
                 print("Calmado, la macro está en cooldown xd")
     except AttributeError:
         pass
-    last_time = time.time()
 with keyboard.Listener(on_press=al_presionar_tecla) as listener:
     listener.join()
